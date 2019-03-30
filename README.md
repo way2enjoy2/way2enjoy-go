@@ -1,7 +1,5 @@
 # Way2Enjoy API client for Golang
 
-[:book: 国内的朋友看这里](http://www.jianshu.com/p/5c4161db4ac8)
-
 ------
 
 Golang client for the Way2Enjoy API, used for [way2Enjoy](https://way2Enjoy.com) . Way2Enjoy compresses or resize your images intelligently. Read more at [http://way2Enjoy.com](http://way2Enjoy.com).
